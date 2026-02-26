@@ -24,3 +24,41 @@ document.write("a%b=");
 result=a%b;
 document.write(result);
 document.write(linebreak);
+
+
+// Relational operators
+
+var a = 100;
+var b = 200;
+
+var linebreak = "<br>";
+
+document.write("a == b : ");
+result = (a == b);
+document.write(result);
+document.write(linebreak);
+
+document.write("a < b : ");
+result = (a < b);
+document.write(result);
+document.write(linebreak);
+
+document.write("a > b : ");
+result = (a > b);
+document.write(result);
+document.write(linebreak);
+
+document.write("a != b : ");
+result = (a != b);
+document.write(result);
+document.write(linebreak);
+
+document.write("a >= b : ");
+result = (a >= b);
+document.write(result);
+document.write(linebreak);
+
+document.write("a <= b : ");
+result = (a <= b);
+document.write(result);
+document.write(linebreak);
