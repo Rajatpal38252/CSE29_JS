@@ -68,3 +68,8 @@
 // console.log(person);
 
 
+// array is a special type of object
+
+var myinfo=new Array();
+var myinfo1=Array();
+console.log(myinfo,myinfo1);
